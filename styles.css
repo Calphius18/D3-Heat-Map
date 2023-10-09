@@ -1,0 +1,33 @@
+  body {
+    margin-top: 20px;
+    background-image:url(https://images5.alphacoders.com/437/437601.jpg);
+     background-repeat: repeat-y;   background-size: cover;
+    color: black;
+    font-weight:bold;
+  }
+  
+  .map{
+    background-color: rgb(62, 69, 150, 0.5);
+    margin: auto;
+    font-family: monospace;
+    border: 5px solid #29318a;
+    border-radius:10px;
+  }
+  
+  #tooltip {
+    width: auto;
+    height: auto;
+    background-color: rgb(74, 87, 86, 0.9);
+    color: white;
+    font-family: monospace;
+    font-size: 25;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    position: absolute;
+  }
+  
+  #title, #description {
+    text-align: center;
+  }
+  
